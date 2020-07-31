@@ -1,0 +1,112 @@
+2020-07-18 21:37:20,265 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-18 21:37:22,476 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-18 21:37:22,538 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-18 21:37:27,078 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-18 21:37:27,334 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-18 21:37:27,493 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-18 21:37:29,009 [main] INFO com.PageObject.BaseClass - submit
+2020-07-18 21:37:29,026 [main] INFO com.PageObject.BaseClass - Testcase pass
+2020-07-18 21:52:43,730 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-18 21:52:45,893 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-18 21:52:45,904 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-18 21:52:49,776 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-18 21:52:49,999 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-18 21:52:50,164 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-18 21:52:51,916 [main] INFO com.PageObject.BaseClass - submit
+2020-07-18 21:52:51,932 [main] INFO com.PageObject.BaseClass - Testcase pass
+2020-07-18 22:01:16,398 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-18 22:01:18,572 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-18 22:01:18,577 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-18 22:01:22,474 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-18 22:01:22,694 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-18 22:01:22,908 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-18 22:01:24,344 [main] INFO com.PageObject.BaseClass - submit
+2020-07-18 22:01:24,359 [main] INFO com.PageObject.BaseClass - Testcase pass
+2020-07-18 22:56:23,805 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-18 22:56:26,029 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-18 22:56:26,034 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-18 22:56:29,913 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-18 22:56:30,170 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-18 22:56:30,323 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-18 22:56:32,482 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:06:04,246 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-23 23:06:06,489 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-23 23:06:06,504 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-23 23:06:10,690 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-23 23:06:10,893 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-23 23:06:11,075 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-23 23:06:11,668 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:11:41,345 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-23 23:11:43,528 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-23 23:11:43,541 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-23 23:11:50,958 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-23 23:11:51,222 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-23 23:11:51,435 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-23 23:11:52,135 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:16:08,980 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-23 23:16:11,168 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-23 23:16:11,181 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-23 23:16:14,979 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-23 23:16:15,234 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-23 23:16:15,492 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-23 23:16:15,998 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:21:01,466 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-23 23:21:03,635 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-23 23:21:03,645 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-23 23:21:07,093 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-23 23:21:07,295 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-23 23:21:07,468 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-23 23:21:09,232 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:21:15,582 [main] INFO com.PageObject.BaseClass - Providing cust detail
+2020-07-23 23:25:24,915 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-23 23:25:27,099 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-23 23:25:27,110 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-23 23:25:30,757 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-23 23:25:31,025 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-23 23:25:31,177 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-23 23:25:32,933 [main] INFO com.PageObject.BaseClass - submit
+2020-07-23 23:25:40,266 [main] INFO com.PageObject.BaseClass - Providing cust detail
+2020-07-24 17:03:10,845 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-24 17:03:13,030 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-24 17:03:13,035 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-24 17:03:16,390 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-24 17:03:16,575 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-24 17:03:16,717 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-24 17:03:18,473 [main] INFO com.PageObject.BaseClass - submit
+2020-07-24 17:03:24,525 [main] INFO com.PageObject.BaseClass - Providing cust detail
+2020-07-30 17:21:45,024 [main] INFO com.PageObject.BaseClass - Lauch the chrome Browser
+2020-07-30 17:21:47,280 [main] INFO com.PageObject.BaseClass - maximize the browser
+2020-07-30 17:21:47,312 [main] INFO com.PageObject.BaseClass - wait for finding element
+2020-07-30 17:21:51,645 [main] INFO com.PageObject.BaseClass - URL is open
+2020-07-30 17:21:51,843 [main] INFO com.PageObject.BaseClass - Enter username
+2020-07-30 17:21:52,030 [main] INFO com.PageObject.BaseClass - Enter Password
+2020-07-30 17:21:53,687 [main] INFO com.PageObject.BaseClass - submit
+2020-07-30 17:21:58,514 [main] INFO com.PageObject.BaseClass - Providing cust detail
+2020-07-31 19:05:25,554 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 19:05:26,150 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 19:05:26,331 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 19:05:29,770 [main] INFO com.Keyword.Calling - clk on login
+2020-07-31 19:07:04,883 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 19:07:05,368 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 19:07:05,551 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 19:07:08,305 [main] INFO com.Keyword.Calling - clk on login
+2020-07-31 19:09:11,243 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 19:09:11,256 [main] INFO com.Keyword.Calling - Timeout
+2020-07-31 19:09:12,010 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 19:09:12,283 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 19:09:15,676 [main] INFO com.Keyword.Calling - clk on login
+2020-07-31 19:10:23,793 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 19:10:23,806 [main] INFO com.Keyword.Calling - Timeout
+2020-07-31 19:10:24,663 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 19:10:24,951 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 19:10:27,544 [main] INFO com.Keyword.Calling - clk on login
+2020-07-31 19:19:09,869 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 19:19:09,922 [main] INFO com.Keyword.Calling - Timeout
+2020-07-31 19:19:10,597 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 19:19:10,899 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 19:19:13,045 [main] INFO com.Keyword.Calling - clk on login
+2020-07-31 20:32:28,263 [main] INFO com.Keyword.Calling - Maximize browser
+2020-07-31 20:32:28,272 [main] INFO com.Keyword.Calling - Timeout
+2020-07-31 20:32:29,163 [main] INFO com.Keyword.Calling - enter username
+2020-07-31 20:32:29,359 [main] INFO com.Keyword.Calling - enter pass
+2020-07-31 20:32:29,760 [main] INFO com.Keyword.Calling - clk on login

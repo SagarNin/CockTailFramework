@@ -1,0 +1,112 @@
+2020-07-18 21:37:20,265 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-18 21:37:22,476 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-18 21:37:22,538 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-18 21:37:27,078 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-18 21:37:27,334 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-18 21:37:27,493 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-18 21:37:29,009 - com.PageObject.BaseClass -INFO - submit
+2020-07-18 21:37:29,026 - com.PageObject.BaseClass -INFO - Testcase pass
+2020-07-18 21:52:43,730 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-18 21:52:45,893 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-18 21:52:45,904 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-18 21:52:49,776 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-18 21:52:49,999 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-18 21:52:50,164 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-18 21:52:51,916 - com.PageObject.BaseClass -INFO - submit
+2020-07-18 21:52:51,932 - com.PageObject.BaseClass -INFO - Testcase pass
+2020-07-18 22:01:16,398 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-18 22:01:18,572 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-18 22:01:18,577 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-18 22:01:22,474 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-18 22:01:22,694 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-18 22:01:22,908 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-18 22:01:24,344 - com.PageObject.BaseClass -INFO - submit
+2020-07-18 22:01:24,359 - com.PageObject.BaseClass -INFO - Testcase pass
+2020-07-18 22:56:23,805 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-18 22:56:26,029 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-18 22:56:26,034 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-18 22:56:29,913 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-18 22:56:30,170 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-18 22:56:30,323 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-18 22:56:32,482 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:06:04,246 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-23 23:06:06,489 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-23 23:06:06,504 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-23 23:06:10,690 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-23 23:06:10,893 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-23 23:06:11,075 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-23 23:06:11,668 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:11:41,345 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-23 23:11:43,528 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-23 23:11:43,541 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-23 23:11:50,958 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-23 23:11:51,222 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-23 23:11:51,435 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-23 23:11:52,135 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:16:08,980 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-23 23:16:11,168 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-23 23:16:11,181 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-23 23:16:14,979 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-23 23:16:15,234 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-23 23:16:15,492 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-23 23:16:15,998 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:21:01,466 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-23 23:21:03,635 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-23 23:21:03,645 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-23 23:21:07,093 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-23 23:21:07,295 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-23 23:21:07,468 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-23 23:21:09,232 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:21:15,582 - com.PageObject.BaseClass -INFO - Providing cust detail
+2020-07-23 23:25:24,915 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-23 23:25:27,099 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-23 23:25:27,110 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-23 23:25:30,757 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-23 23:25:31,025 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-23 23:25:31,177 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-23 23:25:32,933 - com.PageObject.BaseClass -INFO - submit
+2020-07-23 23:25:40,266 - com.PageObject.BaseClass -INFO - Providing cust detail
+2020-07-24 17:03:10,845 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-24 17:03:13,030 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-24 17:03:13,035 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-24 17:03:16,390 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-24 17:03:16,575 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-24 17:03:16,717 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-24 17:03:18,473 - com.PageObject.BaseClass -INFO - submit
+2020-07-24 17:03:24,525 - com.PageObject.BaseClass -INFO - Providing cust detail
+2020-07-30 17:21:45,024 - com.PageObject.BaseClass -INFO - Lauch the chrome Browser
+2020-07-30 17:21:47,280 - com.PageObject.BaseClass -INFO - maximize the browser
+2020-07-30 17:21:47,312 - com.PageObject.BaseClass -INFO - wait for finding element
+2020-07-30 17:21:51,645 - com.PageObject.BaseClass -INFO - URL is open
+2020-07-30 17:21:51,843 - com.PageObject.BaseClass -INFO - Enter username
+2020-07-30 17:21:52,030 - com.PageObject.BaseClass -INFO - Enter Password
+2020-07-30 17:21:53,687 - com.PageObject.BaseClass -INFO - submit
+2020-07-30 17:21:58,514 - com.PageObject.BaseClass -INFO - Providing cust detail
+2020-07-31 19:05:25,554 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 19:05:26,150 - com.Keyword.Calling -INFO - enter username
+2020-07-31 19:05:26,331 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 19:05:29,770 - com.Keyword.Calling -INFO - clk on login
+2020-07-31 19:07:04,883 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 19:07:05,368 - com.Keyword.Calling -INFO - enter username
+2020-07-31 19:07:05,551 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 19:07:08,305 - com.Keyword.Calling -INFO - clk on login
+2020-07-31 19:09:11,243 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 19:09:11,256 - com.Keyword.Calling -INFO - Timeout
+2020-07-31 19:09:12,010 - com.Keyword.Calling -INFO - enter username
+2020-07-31 19:09:12,283 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 19:09:15,676 - com.Keyword.Calling -INFO - clk on login
+2020-07-31 19:10:23,793 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 19:10:23,806 - com.Keyword.Calling -INFO - Timeout
+2020-07-31 19:10:24,663 - com.Keyword.Calling -INFO - enter username
+2020-07-31 19:10:24,951 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 19:10:27,544 - com.Keyword.Calling -INFO - clk on login
+2020-07-31 19:19:09,869 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 19:19:09,922 - com.Keyword.Calling -INFO - Timeout
+2020-07-31 19:19:10,597 - com.Keyword.Calling -INFO - enter username
+2020-07-31 19:19:10,899 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 19:19:13,045 - com.Keyword.Calling -INFO - clk on login
+2020-07-31 20:32:28,263 - com.Keyword.Calling -INFO - Maximize browser
+2020-07-31 20:32:28,272 - com.Keyword.Calling -INFO - Timeout
+2020-07-31 20:32:29,163 - com.Keyword.Calling -INFO - enter username
+2020-07-31 20:32:29,359 - com.Keyword.Calling -INFO - enter pass
+2020-07-31 20:32:29,760 - com.Keyword.Calling -INFO - clk on login
